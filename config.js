@@ -4,11 +4,11 @@ const { version } = require("./package.json")
 //~~~~~~~~~SETTING BOT~~~~~~~~~~//
 
 // Bebas Ubah
-global.owner = "628993937289"
-global.nobot = "628993937289"
-global.namaowner = "ANIME-AI"
-global.namaBot = "ANIMEAI"
-global.title = "ANIME-AI"
+global.owner = "6289602717697"
+global.nobot = "6285938363857"
+global.namaowner = "FAHRI-AI"
+global.namaBot = "FAHRIAI"
+global.title = "FAHRI-AI"
 
 // Jangan Di ubah
 global.creator = `${owner}@s.whatsapp.net` 
@@ -32,8 +32,8 @@ global.onlygc = false
 
 // Set Payment
 global.qris = "https://files.catbox.moe/iwpd4i.jpg"
-global.dana = "08993937289"
-global.gopay = "085129911526"
+global.dana = "087760550924"
+global.gopay = "087760550924"
 
 // ===={ Set Link }
 global.ch = 'https://whatsapp.com/channel/0029Vb2K7scK0IBkPoAGgk28'
